@@ -10,7 +10,7 @@ If you use this code in your research, please cite the following paper:
 
 ```bibtex
 @article{Topological_2026,
-  title = {Topological Rigidification and Vitrification in the Segmental Dynamics of Ring Polymer Materials},
+  title = {Tightly Knotted Ring Polymer Melts are Glassy and Strong},
   author = {Dong, Yue-Tong and Douglas, Jack F. and Sun, Zhao-Yan and Xu, Wen-Sheng},
   year = {2026},
   note = {unpublished}
